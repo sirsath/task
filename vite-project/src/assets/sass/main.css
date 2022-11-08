@@ -1,0 +1,15 @@
+.app-body {
+  height: 100vh;
+  width: 100vw;
+  padding: 5rem 0rem;
+}
+
+.table {
+  border: 2px double black;
+}
+.table td, .table tr {
+  text-align: center;
+}
+.table td button, .table tr button {
+  margin: 0rem 0.5rem;
+}/*# sourceMappingURL=main.css.map */

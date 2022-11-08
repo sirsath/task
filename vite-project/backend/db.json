@@ -1,0 +1,37 @@
+{
+  "users": [
+    {
+      "name": "admin",
+      "username": "admin",
+      "password": "admin",
+      "admin": true,
+      "id": 1
+    },
+    {
+      "name": "Tania",
+      "username": "floppydiskette",
+      "password": "abc",
+      "admin": false,
+      "id": 2
+    },
+    {
+      "name": "Tom",
+      "username": "zeitgeist",
+      "password": "xyz",
+      "admin": false,
+      "id": 3
+    },
+    {
+      "name": "Craig",
+      "username": "siliconeidolon",
+      "admin": false,
+      "id": 4
+    },
+    {
+      "name": "Subham",
+      "username": "shubhuu",
+      "admin": false,
+      "id": 5
+    }
+  ]
+}
